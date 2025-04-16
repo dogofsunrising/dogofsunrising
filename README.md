@@ -24,3 +24,17 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/INUSHIBA/contributions.svg" />
   </a>
 </p>
+
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=swift,kotlin,java,c,processing,html,css,js,figma,python,aws,azure" />
+<br>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dogofsunrising&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dogofsunrising&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dogofsunrising&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dogo[fsunrising&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dogofsunrising&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=dogofsunrising&theme=gruvbox)
