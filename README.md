@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi there 👋
+## Hi I`m dogofsunrising 👋
 
 🔭 I’m currently working on a project using Swift.
 🌱 I’m currently learning machine learning and how to integrate it with mobile apps.
