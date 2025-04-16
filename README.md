@@ -47,7 +47,7 @@
 
 
 <p><strong>プロダクト名→</strong>SSJS</p>
-<p><strong>担当→</strong>サーバー、バックエンド</p>
+<p><strong>担当→</strong>構文解析</p>
 <p>processingをjsに変換するライブラリを作成し、それを共有するプラットフォームを作成しました。構文解析から実施しました。</p>
 
 
