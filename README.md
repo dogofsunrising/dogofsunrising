@@ -13,23 +13,39 @@
 💼 I'm especially interested in opportunities where I can gain hands-on experience in real-world development.
 
 <p align="left">
-  <a href="https://github.com/Keichan15">
+  <a href="https://github.com/dogofsunrising">
     <img height="20" src="https://komarev.com/ghpvc/?username=dogofsunrising" />
   </a>
-  <a href="https://github.com/Keichan15">
+  <a href="https://github.com/dogofsunrising">
     <img height="20" src="https://img.shields.io/github/followers/dogofsunrising?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/Keichan_15">
+  <a href="http://qiita.com/INUSHIBA">
     <img height="20" src="https://qiita-badge.apiapi.app/s/INUSHIBA/posts.svg" />
   </a>
-  <a href="http://qiita.com/Keichan_15">
+  <a href="http://qiita.com/INUSHIBA">
     <img height="20" src="https://qiita-badge.apiapi.app/s/INUSHIBA/contributions.svg" />
   </a>
 </p>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=swift,kotlin,java,c,processing,html,css,js,figma,python,aws,azure" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=swift,kotlin,java,c,processing,java,html,css,js,figma,python,aws,azure,firebase,obsidian,vim" />
 <br>
+
+
+### < 第二回C0deハッカソンwithピクシブ >
+
+### atsuyan賞
+
+
+<img width="300px" src="https://github.com/user-attachments/assets/e349b7b4-394d-4a61-905b-9f3ee6a78c59">
+
+### [作業リポジトリ](https://github.com/orgs/SketchShifter/repositories)　
+### [公開サイト](https://www.serendicode-sub.click/)
+
+
+<p><strong>プロダクト名→</strong>SSJS</p>
+<p><strong>担当→</strong>構文解析</p>
+<p>processingをjsに変換するライブラリを作成し、それを共有するプラットフォームを作成しました。構文解析から実施しました。</p>
 
 
 ### < SysHack 2025 初陣の春 >
