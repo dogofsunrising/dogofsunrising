@@ -41,13 +41,14 @@
 
 ### [作業リポジトリ_iOS](https://github.com/dogofsunrising/noPhone)
 ### [作業リポジトリ_Android](https://github.com/ryohamag/DoStudy-Android?tab=readme-ov-file)
-
+### Apple Store ← まだ準備中
+### [GooglePlay](https://play.google.com/store/apps/details?id=com.websarva.wings.dostudy_android)
 ### [詳細](https://fuschia-axolotl-e45.notion.site/167f7ba46df780ee80c9f9bbf39838a1)
 
 
 <p><strong>プロダクト名→</strong>サボLock</p>
-<p><strong>担当→</strong>構文解析</p>
-<p>processingをjsに変換するライブラリを作成し、それを共有するプラットフォームを作成しました。構文解析から実施しました。</p>
+<p><strong>担当→</strong>iOSアプリ、バックエンドの開発</p>
+<p>スマホ封印を目的としたアプリのiOSの開発とバックエンドの開発で、discodebotを使用した報告アプリを開発</p>
 
 
 ### < SysHack 2025 初陣の春 >
