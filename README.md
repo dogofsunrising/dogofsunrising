@@ -48,7 +48,7 @@
 
 <p><strong>プロダクト名→</strong>サボLock</p>
 <p><strong>担当→</strong>iOSアプリ、バックエンドの開発</p>
-<p>スマホ封印を目的としたアプリのiOSの開発とバックエンドの開発で、discodebotを使用した報告アプリを開発</p>
+<p>スマホ封印を目的としたアプリのiOSの開発とバックエンドの開発で、discodebot+OpenAIを使用した報告アプリを開発</p>
 
 
 ### < SysHack 2025 初陣の春 >
