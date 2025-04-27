@@ -37,7 +37,8 @@
 ### atsuyan賞
 
 
-<img width="300px" src="https://private-user-images.githubusercontent.com/138022726/435243175-ccb3040e-5c5a-4bf3-998f-5a4eaca4c972.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUzMDM5MTQsIm5iZiI6MTc0NTMwMzYxNCwicGF0aCI6Ii8xMzgwMjI3MjYvNDM1MjQzMTc1LWNjYjMwNDBlLTVjNWEtNGJmMy05OThmLTVhNGVhY2E0Yzk3Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyMlQwNjMzMzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZmM4MjA2OTY2ODA3ODMzMzk2N2U4N2YwMmI5NzBjNjhkMjJlNmMwYzVhMzc2OWVkN2FmMWZiNWRjMTUwMWFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.UJCcJQ1CIfHOfeH5C7UweSdtwHiQq2iyB-mAzsBFFjk">
+<img width="300" alt="pixivAicon" src="https://github.com/user-attachments/assets/da30ae9b-b2c6-4fc7-b54d-39bf30639654" />
+
 
 
 ### [作業リポジトリ_iOS](https://github.com/dogofsunrising/noPhone)
