@@ -34,7 +34,7 @@
 
 ### < 第二回C0deハッカソンwithピクシブ >
 
-### atsuyan賞
+### メンター賞
 
 
 <img width="300" alt="pixivAicon" src="https://github.com/user-attachments/assets/da30ae9b-b2c6-4fc7-b54d-39bf30639654" />
